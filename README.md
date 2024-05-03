@@ -1,1 +1,0 @@
-# osTicket-Ticket-Lifecycle-Examples
